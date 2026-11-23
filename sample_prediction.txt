@@ -1,0 +1,3 @@
+=== Sample Prediction Output (Random Forest) ===
+Legitimate Sample -> Predicted: Legitimate (Class 0) | Fraud Probability: 0.00% | Amount: $149.62
+Fraudulent Sample -> Predicted: Fraudulent (Class 1) | Fraud Probability: 55.00% | Amount: $0.00
